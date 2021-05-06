@@ -3,8 +3,6 @@
 Open access repository including relevant literature, photos, data and contact details.
 The relevant data is divided into different branches according to keywords.
 
-![Logo](/C:\Users\user\Documents\HEDERA 2021\Literature\Photos\fishermen_puebloviejo)
-Format: ![Alt Text](url)
 
 
 ## Co-developing solutions to improve access to electricity for a community in Colombia
