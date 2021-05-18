@@ -4,7 +4,6 @@ Open access repository including relevant literature, photos, data and contact d
 The relevant data is divided into different branches according to keywords.
 
 
-
 ## Co-developing solutions to improve access to electricity for a community in Colombia
 
 Project duration: **04/2021-09/2021**
@@ -26,3 +25,8 @@ The project takes place within the framework of the ASA program. The ASA program
 ## Contact details
 Contact details: natalia@hedera.online (HEDERA, Impact-R-Project)
 Repository: nadja.hemming@hedera.online
+
+
+## How does this repository work?
+If you need literature, have a look at the literature branches. You can both download the pdf documents and the bibtex citations.
+If you want to read more about a project, have a look at our wiki!
