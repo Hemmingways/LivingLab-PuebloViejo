@@ -14,6 +14,8 @@ The project is led by the state-supported university **Universidad del Magdalena
 
 A population survey identified access to electricity and poverty reduction as the main needs. This collaboration is also supported by the startup HEDERA Sustainable Solutions with various digital tools for impact analysis using the Multi-Tier Framework approach for energy access measurement. The IASS Potsdam (Institute for Advanced Sustainability Studies e.V.) likewise contributes content expertise on energy access and energy justice as well as to living laboratories and designing research methodologies along the projects.
 
+![Logo](https://github.com/Hemmingways/Livinglab-PuebloViejo/blob/main/LOGO.jpg)
+
 ### Objectives
 
 The aim of this follow-up project is now to **stablish a diagnostic on access to electricity** and to find **solidarity-based solutions** together with the local population that will enable a way out of energy poverty.
