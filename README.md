@@ -30,6 +30,7 @@ Si necesita literatura, eche un vistazo a las ramas de literatura. Puede descarg
 Nuestras fuentes están divididas en diferentes palabras clave, como fuentes sobre laboratorios vivos, documentos específicos sobre Colombia y la región del Magdalena y sobre el acceso a la energía. 
 
 
+![](https://github.com/Hemmingways/Livinglab-PuebloViejo/blob/main/Mar_hombre_barca.jpg)
 
 
 
