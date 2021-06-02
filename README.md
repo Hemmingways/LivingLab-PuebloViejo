@@ -1,7 +1,11 @@
-# Repository of ASA-Project in Pueblo Viejo, Colombia
+# ¡Bienvenidos al repositorio del proyecto ASA!
+# Welcome to the ASA project repository!
 
 Open access repository including relevant literature, photos, data and contact details.
 The relevant data is divided into different branches according to keywords.
+
+Repositorio de acceso abierto que incluye literatura relevante, fotos, datos y detalles de contacto.
+Los datos relevantes se dividen en diferentes ramas según las palabras clave.
 
 ### Co-developing solutions to improve access to electricity for a community in Colombia
 
