@@ -3,7 +3,7 @@
 # Welcome to the repository of the living laboratory in Pueblo Viejo, Colombia!
 
 
-Repositorio de acceso abierto que incluye literatura relevante, fotos, datos y detalles de contacto.
+Repositorio de acceso abierto que incluye literatura relevante, fotos, datos y detalles de contacto. 
 
 Open access repository including relevant literature, photos, data and contact details.
 
@@ -59,7 +59,7 @@ It aims toward the provision of reliable and affordable access to electric power
 * led by the state-supported university **Universidad del Magdalena located in Santa Marta**, the capital of Magdalena Province in northern Colombia
 * In 2019, the Universidad del Magdalena collaborated with the Institute of Energy Technology (IET) at **TU Berlin** in 2019 for the **project "Rejuveneciendo Pueblo Viejo"**
 * supported by the startup HEDERA Sustainable Solutions with various digital tools for impact analysis using the Multi-Tier Framework approach for energy access measurement
-* [IASS Potsdam](https://www.iass-potsdam.de/en)(Institute for Advanced Sustainability Studies e.V.) likewise contributes content expertise on energy access and energy justice as well as to living laboratories
+* https://www.iass-potsdam.de/en (Institute for Advanced Sustainability Studies e.V.) likewise contributes content expertise on energy access and energy justice as well as to living laboratories
 * Interdisciplinary working groups have convened living laboratories for sustainability, cooperation, and innovation
 
 ### How does this repository work? 
@@ -78,4 +78,5 @@ Our sources are divided into different keywords, such as sources on living labor
 
 Contact details: natalia@hedera.online (HEDERA, Impact-R-Project)
 Repository: nadja.hemming@hedera.online
+
 
