@@ -9,8 +9,7 @@ Los datos relevantes se dividen en diferentes ramas según las palabras clave.
 Open access repository including relevant literature, photos, data and contact details.
 The relevant data is divided into different branches according to keywords.
 
-<img src="LOGO.jpg"
-     style="float: left; margin-right: 10px;" />
+
 
 ### Co-desarrollar soluciones para mejorar el acceso a la electricidad de una comunidad en Colombia
 
@@ -57,14 +56,10 @@ Progress will then be measured using appropriate methods. Households, businesses
 
 ### How does this repository work?
 
-If you need literature, have a look at the literature branches. You can both download the pdf documents and the bibtex citations. If you want to read more about a project, have a look at our wiki.
+If you want to check literature, have a look at the files in our repository.  You can both download the pdf documents and the bibtex citations. 
+If you want to read more about a project, have a look at our wiki.
 
 Our sources are divided into different keywords, such as sources on living laboratories, specific papers on Colombia and Magdalena region and on energy access. 
-
-
-
-
-
 
 
 
