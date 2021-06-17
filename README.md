@@ -2,14 +2,14 @@
 # Welcome to the ASA project repository!
 
 
-Open access repository including relevant literature, photos, data and contact details.
-The relevant data is divided into different branches according to keywords.
-
 Repositorio de acceso abierto que incluye literatura relevante, fotos, datos y detalles de contacto.
 Los datos relevantes se dividen en diferentes ramas según las palabras clave.
 
-<img src=""
-     alt="Markdown Monster icon"
+
+Open access repository including relevant literature, photos, data and contact details.
+The relevant data is divided into different branches according to keywords.
+
+<img src="LOGO.jpg"
      style="float: left; margin-right: 10px;" />
 
 ### Co-desarrollar soluciones para mejorar el acceso a la electricidad de una comunidad en Colombia
@@ -32,11 +32,8 @@ A continuación, se medirán los avances con los métodos adecuados. Se encuesta
 Si necesita literatura, eche un vistazo a las ramas de literatura. Puede descargar tanto los documentos pdf como las citas bibtex. Si quieres leer más sobre un proyecto, echa un vistazo a nuestra wiki. 
 Nuestras fuentes están divididas en diferentes palabras clave, como fuentes sobre laboratorios vivos, documentos específicos sobre Colombia y la región del Magdalena y sobre el acceso a la energía. 
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gZjg6wSJtIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-![](https://github.com/Hemmingways/Livinglab-PuebloViejo/blob/main/Mar_hombre_barca.jpg)
-
-
 
 
 ### Co-developing solutions to improve access to electricity for a community in Colombia
