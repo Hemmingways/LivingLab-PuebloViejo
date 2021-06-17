@@ -2,7 +2,12 @@
 
 # Welcome to the repository of the living laboratory in Pueblo Viejo, Colombia!
 
-<img src="LOGO.png" alt="Logo of the project" style="float: left; margin-right: 10px;" />
+
+
+<img src="LOGO.png" 
+     alt="Logo of the project" 
+     style="float: left; margin-right: 10px;" />
+
 
 
 Repositorio de acceso abierto que incluye literatura relevante, fotos, datos y detalles de contacto.
@@ -38,12 +43,6 @@ Su objetivo es proporcionar un acceso fiable y asequible a la energía eléctric
 * IASS Potsdam (Institute for Advanced Sustainability Studies e.V.) contribuye igualmente con su experiencia en materia de acceso a la energía y justicia energética, así como con los laboratorios vivos
 
 
-### ¿Cómo funciona este repositorio?
-
-Si necesita literatura, eche un vistazo a las ramas de literatura. Puede descargar tanto los documentos pdf como las citas bibtex. Si quieres leer más sobre un proyecto, echa un vistazo a nuestra wiki. 
-Nuestras fuentes están divididas en diferentes palabras clave, como fuentes sobre laboratorios vivos, documentos específicos sobre Colombia y la región del Magdalena y sobre el acceso a la energía. 
-
-
 
 
 # English version
@@ -65,14 +64,6 @@ It aims toward the provision of reliable and affordable access to electric power
 * Interdisciplinary working groups have convened living laboratories for sustainability, cooperation, and innovation
 * supported by the startup HEDERA Sustainable Solutions with various digital tools for impact analysis using the Multi-Tier Framework approach for energy access measurement
 * IASS Potsdam (Institute for Advanced Sustainability Studies e.V.) likewise contributes content expertise on energy access and energy justice as well as to living laboratorie
-
-### How does this repository work?
-
-If you want to check literature, have a look at the files in our repository.  You can both download the pdf documents and the bibtex citations. 
-If you want to read more about a project, have a look at our wiki.
-
-Our sources are divided into different keywords, such as sources on living laboratories, specific papers on Colombia and Magdalena region and on energy access. 
-
 
 
 ## Contact details
