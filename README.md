@@ -31,9 +31,9 @@ Con el objetivo de mejorar la calidad de vida de una comunidad del norte de Colo
 
 Su objetivo es proporcionar un acceso fiable y asequible a la energía eléctrica a través de soluciones sostenibles y basadas en la demanda. 
 
-* liderado por la universidad **Universidad del Magdalena, situada en Santa Marta**, la capital de la provincia de Magdalena, en el norte de Colombia
-* en 2019, la Universidad del Magdalena colaboró con el Instituto de Tecnología Energética (IET) de la **TU Berlín** en el **proyecto "Rejuveneciendo Pueblo Viejo"**
-* apoyo del startup HEDERA Sustainable Solutions con varias herramientas digitales para el análisis de impacto utilizando el enfoque del Marco Multi-Nivel (MTF) para la medición del acceso a la energía
+* liderado por la universidad **[Universidad del Magdalena](https://www.unimagdalena.edu.co/), situada en Santa Marta**, la capital de la provincia de Magdalena, en el norte de Colombia
+* en 2019, la Universidad del Magdalena colaboró con el Instituto de Tecnología Energética (IET) de la **[TU Berlin](https://www.tu.berlin/en/)** en el **proyecto "Rejuveneciendo Pueblo Viejo"**
+* apoyo del startup [HEDERA Sustainable Solutions](https://www.hedera.online/en/home/index.html) con varias herramientas digitales para el análisis de impacto utilizando el enfoque del Marco Multi-Nivel (MTF) para la medición del acceso a la energía
 * [IASS Potsdam](https://www.iass-potsdam.de/en)(Institute for Advanced Sustainability Studies e.V.) contribuye igualmente con su experiencia en materia de acceso a la energía y justicia energética, así como con los laboratorios vivos
 * los grupos de trabajo interdisciplinarios han convocado laboratorios vivos de sostenibilidad, cooperación e innovación
 
@@ -56,10 +56,10 @@ With the goal to improve the quality of life of a community in north Colombia, P
 It aims toward the provision of reliable and affordable access to electric power through demand-driven and sustainable solutions.  
 
 
-* led by the state-supported university **Universidad del Magdalena located in Santa Marta**, the capital of Magdalena Province in northern Colombia
-* In 2019, the Universidad del Magdalena collaborated with the Institute of Energy Technology (IET) at **TU Berlin** in 2019 for the **project "Rejuveneciendo Pueblo Viejo"**
-* supported by the startup HEDERA Sustainable Solutions with various digital tools for impact analysis using the Multi-Tier Framework approach for energy access measurement
-* https://www.iass-potsdam.de/en (Institute for Advanced Sustainability Studies e.V.) likewise contributes content expertise on energy access and energy justice as well as to living laboratories
+* led by the state-supported university **[Universidad del Magdalena](https://www.unimagdalena.edu.co/)located in Santa Marta**, the capital of Magdalena Province in northern Colombia
+* In 2019, the Universidad del Magdalena collaborated with the Institute of Energy Technology (IET) at **[TU Berlin](https://www.tu.berlin/en/)** in 2019 for the **project "Rejuveneciendo Pueblo Viejo"**
+* supported by the startup [HEDERA Sustainable Solutions](https://www.hedera.online/en/home/index.html) with various digital tools for impact analysis using the Multi-Tier Framework approach for energy access measurement
+* [IASS Potsdam](https://www.iass-potsdam.de/en)(Institute for Advanced Sustainability Studies e.V.) likewise contributes content expertise on energy access and energy justice as well as to living laboratories
 * Interdisciplinary working groups have convened living laboratories for sustainability, cooperation, and innovation
 
 ### How does this repository work? 
@@ -76,7 +76,7 @@ Our sources are divided into different keywords, such as sources on living labor
      
 ## Contact details
 
-Contact details: natalia@hedera.online (HEDERA, Impact-R-Project)
+Contact details: natalia@hedera.online (HEDERA, [Impact-R-Project](https://impact-r.org/en/index.html))
 Repository: nadja.hemming@hedera.online
 
 
