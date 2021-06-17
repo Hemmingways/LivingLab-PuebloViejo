@@ -71,6 +71,7 @@ Our sources are divided into different keywords, such as sources on living labor
 
 
 ## Contact details
+
 Contact details: natalia@hedera.online (HEDERA, Impact-R-Project)
 Repository: nadja.hemming@hedera.online
 
