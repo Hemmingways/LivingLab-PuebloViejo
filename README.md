@@ -35,7 +35,7 @@ Su objetivo es proporcionar un acceso fiable y asequible a la energía eléctric
 * en 2019, la Universidad del Magdalena colaboró con el Instituto de Tecnología Energética (IET) de la **TU Berlín** en el **proyecto "Rejuveneciendo Pueblo Viejo"**
 * los grupos de trabajo interdisciplinarios han convocado laboratorios vivos de sostenibilidad, cooperación e innovación
 * apoyo del startup HEDERA Sustainable Solutions con varias herramientas digitales para el análisis de impacto utilizando el enfoque del Marco Multi-Nivel (MTF) para la medición del acceso a la energía
-* IASS Potsdam (Institute for Advanced Sustainability Studies e.V.) contribuye igualmente con su experiencia en materia de acceso a la energía y justicia energética, así como con los laboratorios vivientes y el diseño de metodologías de investigación a lo largo de los proyectos.
+* IASS Potsdam (Institute for Advanced Sustainability Studies e.V.) contribuye igualmente con su experiencia en materia de acceso a la energía y justicia energética, así como con los laboratorios vivos
 
 
 ### ¿Cómo funciona este repositorio?
@@ -64,7 +64,7 @@ It aims toward the provision of reliable and affordable access to electric power
 * In 2019, the Universidad del Magdalena collaborated with the Institute of Energy Technology (IET) at **TU Berlin** in 2019 for the **project "Rejuveneciendo Pueblo Viejo"**
 * Interdisciplinary working groups have convened living laboratories for sustainability, cooperation, and innovation
 * supported by the startup HEDERA Sustainable Solutions with various digital tools for impact analysis using the Multi-Tier Framework approach for energy access measurement
-* IASS Potsdam (Institute for Advanced Sustainability Studies e.V.) likewise contributes content expertise on energy access and energy justice as well as to living laboratories and designing research methodologies along the projects.
+* IASS Potsdam (Institute for Advanced Sustainability Studies e.V.) likewise contributes content expertise on energy access and energy justice as well as to living laboratorie
 
 ### How does this repository work?
 
