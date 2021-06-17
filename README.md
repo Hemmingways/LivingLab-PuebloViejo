@@ -3,13 +3,6 @@
 # Welcome to the repository of the living laboratory in Pueblo Viejo, Colombia!
 
 
-
-<img src="LOGO.png" 
-     alt="Logo of the project" 
-     style="float: left; margin-right: 10px;" />
-
-
-
 Repositorio de acceso abierto que incluye literatura relevante, fotos, datos y detalles de contacto.
 Los datos relevantes se dividen en diferentes ramas según las palabras clave.
 
@@ -66,6 +59,12 @@ It aims toward the provision of reliable and affordable access to electric power
 * IASS Potsdam (Institute for Advanced Sustainability Studies e.V.) likewise contributes content expertise on energy access and energy justice as well as to living laboratorie
 
 
+<img src="LOGO.jpg" 
+     alt="Logo of the project" 
+     style="float: left; margin-right: 10px;" />
+     
+     
+     
 ## Contact details
 
 Contact details: natalia@hedera.online (HEDERA, Impact-R-Project)
