@@ -2,9 +2,7 @@
 
 # Welcome to the repository of the living laboratory in Pueblo Viejo, Colombia!
 
-<img src="LOGO.png"
-     alt="Logo of the project"
-     style="float: left; margin-right: 10px;" />
+<img src="LOGO.png" alt="Logo of the project" style="float: left; margin-right: 10px;" />
 
 
 Repositorio de acceso abierto que incluye literatura relevante, fotos, datos y detalles de contacto.
@@ -13,6 +11,13 @@ Los datos relevantes se dividen en diferentes ramas según las palabras clave.
 
 Open access repository including relevant literature, photos, data and contact details.
 The relevant data is divided into different branches according to keywords.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gZjg6wSJtIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+# Versión en español
 
 ### Objetivos
 
@@ -39,7 +44,7 @@ Si necesita literatura, eche un vistazo a las ramas de literatura. Puede descarg
 Nuestras fuentes están divididas en diferentes palabras clave, como fuentes sobre laboratorios vivos, documentos específicos sobre Colombia y la región del Magdalena y sobre el acceso a la energía. 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gZjg6wSJtIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 # English version
 
