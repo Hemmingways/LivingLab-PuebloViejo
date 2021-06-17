@@ -56,7 +56,11 @@ It aims toward the provision of reliable and affordable access to electric power
 * In 2019, the Universidad del Magdalena collaborated with the Institute of Energy Technology (IET) at **TU Berlin** in 2019 for the **project "Rejuveneciendo Pueblo Viejo"**
 * Interdisciplinary working groups have convened living laboratories for sustainability, cooperation, and innovation
 * supported by the startup HEDERA Sustainable Solutions with various digital tools for impact analysis using the Multi-Tier Framework approach for energy access measurement
-* IASS Potsdam (Institute for Advanced Sustainability Studies e.V.) likewise contributes content expertise on energy access and energy justice as well as to living laboratorie
+* IASS Potsdam (Institute for Advanced Sustainability Studies e.V.) likewise contributes content expertise on energy access and energy justice as well as to living laboratories
+
+### How does this repository work? 
+
+If you want to check literature, have a look at the files in our repository.  You can both download the pdf documents and the bibtex citations. If you want to read more about a project, have a look at our wiki. Our sources are divided into different keywords, such as sources on living laboratories, specific papers on Colombia and Magdalena region and on energy access.
 
 
 <img src="LOGO.jpg" 
